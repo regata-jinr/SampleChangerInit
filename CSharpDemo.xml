@@ -1,0 +1,162 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CSharpDemo</name>
+    </assembly>
+    <members>
+        <member name="F:CSharpDemo.DemoForm.Timer_Refresh_Tick_led_zustand">
+            <summary>
+            
+            </summary>
+            <param name="newScrollValue"></param>
+            <remarks></remarks>
+        </member>
+        <member name="M:CSharpDemo.DemoForm.Rmove_Click(System.Object,System.EventArgs)">
+            <summary>
+            
+            </summary>
+            <param name="eventSender"></param>
+            <param name="eventArgs"></param>
+            <remarks></remarks>
+        </member>
+        <member name="M:CSharpDemo.DemoForm.Amove_Click(System.Object,System.EventArgs)">
+            <summary>
+            
+            </summary>
+            <param name="eventSender"></param>
+            <param name="eventArgs"></param>
+            <remarks></remarks>
+        </member>
+        <member name="M:CSharpDemo.DemoForm.Jog_Click(System.Object,System.EventArgs)">
+            <summary>
+            
+            </summary>
+            <param name="eventSender"></param>
+            <param name="eventArgs"></param>
+            <remarks></remarks>
+        </member>
+        <member name="M:CSharpDemo.DemoForm.StopAchseKlick(System.Object,System.EventArgs)">
+            <summary>
+            
+            </summary>
+            <param name="eventSender"></param>
+            <param name="eventArgs"></param>
+            <remarks></remarks>
+        </member>
+        <member name="M:CSharpDemo.DemoForm.DemoForm_Load(System.Object,System.EventArgs)">
+            <summary>
+            
+            </summary>
+            <param name="eventSender"></param>
+            <param name="eventArgs"></param>
+            <remarks></remarks>
+        </member>
+        <member name="M:CSharpDemo.DemoForm.DemoForm_FormClosed(System.Object,System.Windows.Forms.FormClosedEventArgs)">
+            <summary>
+            
+            </summary>
+            <param name="eventSender"></param>
+            <param name="eventArgs"></param>
+            <remarks></remarks>
+        </member>
+        <member name="M:CSharpDemo.DemoForm.MnuSchlieЯen_Click(System.Object,System.EventArgs)">
+            <summary>
+            
+            </summary>
+            <param name="eventSender"></param>
+            <param name="eventArgs"></param>
+            <remarks></remarks>
+        </member>
+        <member name="M:CSharpDemo.DemoForm.MnuSchnittstelle_Click(System.Object,System.EventArgs)">
+            <summary>
+            
+            </summary>
+            <param name="eventSender"></param>
+            <param name="eventArgs"></param>
+            <remarks></remarks>
+        </member>
+        <member name="M:CSharpDemo.DemoForm.Test_Click(System.Object,System.EventArgs)">
+            <summary>
+            
+            </summary>
+            <param name="eventSender"></param>
+            <param name="eventArgs"></param>
+            <remarks></remarks>
+        </member>
+        <member name="M:CSharpDemo.DemoForm.Timer_Refresh_Tick(System.Object,System.EventArgs)">
+            <summary>
+            
+            </summary>
+            <param name="eventSender"></param>
+            <param name="eventArgs"></param>
+            <remarks></remarks>
+        </member>
+        <member name="M:CSharpDemo.DemoForm.AchsScroll_Scroll(System.Object,System.Windows.Forms.ScrollEventArgs)">
+            <summary>
+            
+            </summary>
+            <param name="eventSender"></param>
+            <param name="eventArgs"></param>
+            <remarks></remarks>
+        </member>
+        <member name="M:CSharpDemo.FormSchnittstelle.cboComPort_TextChanged(System.Object,System.EventArgs)">
+            <summary>
+            
+            </summary>
+            <param name="eventSender"></param>
+            <param name="eventArgs"></param>
+            <remarks></remarks>
+        </member>
+        <member name="M:CSharpDemo.FormSchnittstelle.cboComPort_SelectedIndexChanged(System.Object,System.EventArgs)">
+            <summary>
+            
+            </summary>
+            <param name="eventSender"></param>
+            <param name="eventArgs"></param>
+            <remarks></remarks>
+        </member>
+        <member name="M:CSharpDemo.FormSchnittstelle.CmdAbbruch_Click(System.Object,System.EventArgs)">
+            <summary>
+            
+            </summary>
+            <param name="eventSender"></param>
+            <param name="eventArgs"></param>
+            <remarks></remarks>
+        </member>
+        <member name="M:CSharpDemo.FormSchnittstelle.CmdOk_Click(System.Object,System.EventArgs)">
+            <summary>
+            
+            </summary>
+            <param name="eventSender"></param>
+            <param name="eventArgs"></param>
+            <remarks></remarks>
+        </member>
+        <member name="M:CSharpDemo.FormSchnittstelle.FormSchnittstelle_Load(System.Object,System.EventArgs)">
+            <summary>
+            
+            </summary>
+            <param name="eventSender"></param>
+            <param name="eventArgs"></param>
+            <remarks></remarks>
+        </member>
+        <member name="M:CSharpDemo.CSharpDemo.Ini_Xemo">
+            <summary>
+            
+            </summary>
+            <returns></returns>
+            <remarks></remarks>
+        </member>
+        <member name="T:XemoDLL">
+            <summary>
+            Definition der XemoDLL-Funktionen
+            </summary>
+            <remarks></remarks>
+        </member>
+        <member name="T:XemoKonst">
+            <summary>
+            Konstanten Definitionen
+            </summary>
+            <remarks></remarks>
+        </member>
+    </members>
+</doc>
