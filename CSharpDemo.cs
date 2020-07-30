@@ -47,6 +47,9 @@ namespace CSharpDemo
                 XemoDLL.MB_ASet((short)num, 2052, (int)MOTOR_STOP_CURRENT[num]);
                 XemoDLL.MB_ASet((short)num, 2050, (int)MICROSTEP_DEFINER[num]);
 
+                XemoDLL.MB_ASet((short)num, 2000, 100);
+                XemoDLL.MB_ASet((short)num, 2001, 100);
+                XemoDLL.MB_ASet((short)num, 2002, 100);
 
                 XemoDLL.MB_ASet((short)num, 2041, (int)Math.Round((double)INC_PER_REVOLUTION[num] / (double)MICROSTEP_DEFINER[num]));
 
